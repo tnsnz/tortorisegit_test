@@ -1,0 +1,1 @@
+git -c user.name="devB" -c user.email="devB@example.com" commit --author="devB <devB@example.com>" -m "msg"
