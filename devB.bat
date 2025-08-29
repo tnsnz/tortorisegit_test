@@ -1,1 +1,5 @@
-git -c user.name="devB" -c user.email="devB@example.com" commit --author="devB <devB@example.com>" -m "msg"
+@echo off
+cd /d %~dp0
+
+git config user.name "soon"
+git config user.email "tnsnz@github.com"
