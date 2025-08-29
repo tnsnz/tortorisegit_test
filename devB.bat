@@ -2,4 +2,4 @@
 cd /d %~dp0
 
 git config user.name "soon"
-git config user.email "aa@github.com"
+git config user.email "aa@aaa.com"
